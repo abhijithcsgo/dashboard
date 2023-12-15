@@ -4,7 +4,7 @@ body {
   padding: 0;
   box-sizing: border-box;
 
-  /*background-image: url("bgimg.webp"); */
+  background-image: url("bgimg.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
